@@ -1,0 +1,41 @@
+[33mcommit f1b668eab3596cde9250af153e88db984f07b232[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Igor <igorg@example.com>
+Date:   Fri May 15 19:22:03 2026 +0300
+
+    Review buisness requiremnts for this app, FIND 7 MISTAKES. REALLY BAD WORK
+
+[33mcommit 284d0d3b6893271a74f3e04ce227422d8d35343e[m
+Author: Igor <igorg@example.com>
+Date:   Fri May 15 19:21:28 2026 +0300
+
+    Review buisness requiremnts for this app, FIND 7 MISTAKES. REALLY BAD WORK
+
+[33mcommit 467e9576210f9d5bfcaac0ee4df47e0fcab92db8[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Igor <igorg@example.com>
+Date:   Fri May 15 19:04:33 2026 +0300
+
+    Fix mojibake encoding in functional requirements FR-05 through FR-33
+
+[33mcommit 378de13010f821647e07464388b60fc5f89cb98a[m
+Author: Igor-Oreh <igorgooss@gmail.com>
+Date:   Mon May 11 08:04:17 2026 +0300
+
+    Add project documentation: user requirements, functional and non-functional requirements, project overview
+
+[33mcommit 7bf97d9e42ea3fa7c24b60044e6347cb35035ba9[m
+Author: Igor-Oreh <igorgooss@gmail.com>
+Date:   Mon May 11 01:35:18 2026 +0300
+
+    feat: add complete requirements specification for taxi ordering mobile app
+    
+    - Added project overview with business goals and personas
+    - Added 11 user stories (US-01 to US-11) with role-specific details
+    - Added 33 functional requirements (FR-01 to FR-33) with business rules
+    - Added 8 non-functional requirements (NFR-01 to NFR-08) with metrics
+    - All requirements cross-linked between categories
+
+[33mcommit 3c02767e4763cff108b42d62c6c71e5b9d73717e[m
+Author: Igor-Oreh <igorgooss@gmail.com>
+Date:   Mon May 11 01:17:03 2026 +0300
+
+    Initial commit: setup lab 10 project structure
